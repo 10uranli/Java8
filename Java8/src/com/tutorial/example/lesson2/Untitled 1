@@ -1,0 +1,16 @@
+Notes:
+	int x = 50; // primitive type byte, short vs vs.
+	String y = "onur"; //class--> string, reference variable
+	
+	java 8 den itibaren tipi fonksiyon olabilir
+	
+	??function type?? z = function?;
+	
+	@FunctionalInterface
+	interface FuncInterface{
+		int f(int x);//SAM  : Single Abstract Method functional kullanabilmek için 1 tane sam olmali
+	}
+	
+			//1.anonymous class ile yapabiliriz.
+	
+	
